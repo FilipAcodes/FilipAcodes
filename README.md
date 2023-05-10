@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nextjs Todo application.<br>Currently Learning: Typescript,Tailwind & Nextjs
+Currently working on :Nextjs Todo application.<br>Currently Learning: Typescript,Tailwind & Nextjs
 
 
 ## 🌐 Socials:
