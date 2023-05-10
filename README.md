@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on :Nextjs Todo application.<br>Currently Learning: Typescript,Tailwind & Nextjs
+Currently working on : Nextjs Todo application.<br>Currently Learning : Typescript,Tailwind & Nextjs
 
 
 ## 🌐 Socials:
@@ -12,4 +12,4 @@ Currently working on :Nextjs Todo application.<br>Currently Learning: Typescript
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FilipAcodes&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipAcodes&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
