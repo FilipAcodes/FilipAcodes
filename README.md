@@ -1,6 +1,7 @@
 # 💫 About Me:
 Currently working on : Nextjs Todo application.<br>Currently Learning : Typescript,Tailwind & Nextjs
-
+## 💪 Projects:
+![BPM](https://github.com/FilipAcodes/Final-Bpm)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filip-altankov-49b4b1275) 
