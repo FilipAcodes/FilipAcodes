@@ -1,9 +1,9 @@
 # 💫 About Me:
 Currently working on : Nextjs Todo application.<br>Currently Learning : Typescript,Tailwind & Nextjs
 ## 💪 Projects:
-[Music Search Engine-BPM](https://github.com/FilipAcodes/Final-Bpm)
-[Collaboration with others for an e-commerce website](https://github.com/FilipAcodes/Group-E-commerce)
-
+- [Music Search Engine-BPM](https://github.com/FilipAcodes/Final-Bpm)
+- [Collaboration with others for an e-commerce website](https://github.com/FilipAcodes/Group-E-commerce)
+- [Critter-A twitter clone](urltobeadded)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filip-altankov-49b4b1275) 
 
