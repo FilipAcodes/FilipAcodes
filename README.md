@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on : Nextjs Todo application.<br>Currently Learning : Typescript,Tailwind & Nextjs
+Currently working on : Java Application.<br>Currently Learning : Java,MySQL,Oracle
 ## 💪 Projects:
 - [Music Search Engine-BPM](https://github.com/FilipAcodes/Final-Bpm)
 - [E-Commerce Website-FrogoShop](https://github.com/FilipAcodes/Group-E-commerce)
