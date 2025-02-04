@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on : Java Application.<br>Currently Learning : Java,MySQL,Oracle
+Currently working on : PacMan in java.<br>Currently Learning : Java, Python
 ## 💪 Projects:
 - [Music Search Engine-BPM](https://github.com/FilipAcodes/Final-Bpm)
 - [E-Commerce Website-FrogoShop](https://github.com/FilipAcodes/Group-E-commerce)
